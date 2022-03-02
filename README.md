@@ -1,3 +1,3 @@
-# Project Title
-  ## Starting Salary Predictions for College Graduates
+## Project Title
+   Starting Salary Predictions for College Graduates
 
