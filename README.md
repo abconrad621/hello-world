@@ -1,7 +1,7 @@
 ## Project Title
    Starting Salary Predictions for College Graduates
 ## Description
-   Gathered and cleaned data to create a usable data set. Utitlized linear regression to predict starting salaries for college students based on I need to highlight these == college rank, type, and specialty.
+   Gathered and cleaned data to create a usable data set. Utitlized linear regression to predict starting salaries for college students based on I need to highlight these ==college rank, type, and specialty==.
 ## Data Sets
    1. https://www.kaggle.com/wsj/college-salaries?select=degrees-that-pay-back.csv
    2. Master Sets/Cleaned Data/Analysis [Analytics Project Data Sets R.xlsx](https://github.com/abconrad621/hello-world/files/8166180/Analytics.Project.Data.Sets.R.xlsx)
